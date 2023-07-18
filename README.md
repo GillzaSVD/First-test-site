@@ -1,3 +1,3 @@
-# First-test-site
+# first-test-site
 
 Сайт создан в учебных целях.
